@@ -1,0 +1,9 @@
+#img-bg{
+  background-image: url('https://wallpapercave.com/wp/wp3218483.jpg');
+
+  min-height: 100vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
